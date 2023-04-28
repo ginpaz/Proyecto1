@@ -53,8 +53,9 @@ main {
 }
 
 .gato {
-    margin-top: 30px;
-    text-align: center;
+   margin-top: 30px;
+   text-align: center;
+   
 }
 .gato img {
     width: 400px;
